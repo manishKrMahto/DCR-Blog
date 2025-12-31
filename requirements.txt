@@ -1,0 +1,41 @@
+# Django + Forms
+Django==4.2.27
+django-crispy-forms==2.5
+crispy-bootstrap5==2025.6
+
+# Images
+Pillow==11.3.0
+
+# LangChain Core
+langchain==0.3.27
+langchain-community==0.3.31
+langchain-core==0.3.81
+langchain-huggingface==0.3.1
+langchain-text-splitters==0.3.11
+
+# Embeddings + Transformers
+sentence-transformers==5.1.2
+torch==2.8.0
+tokenizers==0.22.1
+safetensors==0.7.0
+
+# ChromaDB Vector Database
+chromadb==1.4.0
+
+# HuggingFace Hub API
+huggingface-hub==0.36.0
+
+# Parsing + Utils
+python-dotenv==1.2.1
+pydantic==2.12.5
+pydantic-settings==2.11.0
+
+# Numeric + ML
+numpy==1.26.4
+scikit-learn==1.4.2
+scipy==1.10.1
+
+# Web Requests
+requests==2.32.5
+urllib3==2.3.0
+idna==3.11
