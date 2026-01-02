@@ -233,6 +233,11 @@ pip install -r requirements.txt
 
 ### 5. Run the Application
 
+add huggingface api key in .env file : 
+```
+HUGGINGFACE_API_KEY="you_api_key"
+```
+
 ```bash
 python manage.py runserver
 ```
